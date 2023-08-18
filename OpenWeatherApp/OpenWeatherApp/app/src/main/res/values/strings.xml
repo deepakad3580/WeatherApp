@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="temp_degree">%1s\u2103</string>
+    <string name="no_data_found">No Data Available</string>
+    <string name="wind">"Wind - %1s"</string>
+</resources>
